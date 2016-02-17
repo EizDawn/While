@@ -3,7 +3,7 @@
     <field name="MODE">UNTIL</field>
     <value name="NUMBER">
       <block type="sensor_button" id="18">
-        <field name="OBJECT">UP</field>
+        <field name="OBJECT">ENTER</field>
       </block>
     </value>
     <statement name="DO">
@@ -20,7 +20,7 @@
         <field name="MODE">UNTIL</field>
         <value name="NUMBER">
           <block type="sensor_button" id="19">
-            <field name="OBJECT">UP</field>
+            <field name="OBJECT">ENTER</field>
           </block>
         </value>
         <statement name="DO">
